@@ -1,0 +1,18 @@
+{
+    "name": "Last Page",
+    "shortName": "lastpage",
+    "version": "0.0.1",
+    "author": "Ryan Blenis",
+    "description": "Return to the last page you were on previously",
+    "hasAdminPanel": false,
+    "homepage": "https://github.com/ryanblenis/MeshCentral-LastPage",
+    "changelogUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-LastPage/master/changelog.md",
+    "configUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-LastPage/master/config.json",
+    "downloadUrl": "https://github.com/ryanblenis/MeshCentral-LastPage/archive/master.zip",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ryanblenis/MeshCentral-LastPage.git"
+    },
+    "versionHistoryUrl": "https://api.github.com/repos/ryanblenis/MeshCentral-LastPage/tags",
+    "meshCentralCompat": ">=0.4.6-p"
+}
